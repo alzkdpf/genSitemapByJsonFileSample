@@ -1,0 +1,1 @@
+node genSitemap.js toptoonplus.com/comic data comicId
